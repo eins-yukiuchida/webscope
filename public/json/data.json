@@ -1,0 +1,36 @@
+{
+    "cars": [
+        {
+            "Year": 2009,
+            "Maserati": 0,
+            "Mazda": 2941,
+            "Mercedes": 4303,
+            "Mini": 354,
+            "Mitsubishi": 5814
+        },
+        {
+            "Year": 2010,
+            "Maserati": 3,
+            "Mazda": 2905,
+            "Mercedes": 2867,
+            "Mini": 412,
+            "Mitsubishi": 5284
+        },
+        {
+            "Year": 2011,
+            "Maserati": 4,
+            "Mazda": 2517,
+            "Mercedes": 4822,
+            "Mini": 552,
+            "Mitsubishi": 6127
+        },
+        {
+            "Year": 2012,
+            "Maserati": 2,
+            "Mazda": 2422,
+            "Mercedes": 5399,
+            "Mini": 776,
+            "Mitsubishi": 4151
+        }
+    ]
+}
